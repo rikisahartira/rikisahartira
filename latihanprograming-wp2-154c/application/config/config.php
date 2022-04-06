@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/latihan-wp2-154c/';
+$config['base_url'] = 'http://localhost/latihanprograming-wp2-154c/';
 
 /*
 |--------------------------------------------------------------------------
